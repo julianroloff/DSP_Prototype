@@ -1,0 +1,7 @@
+@prefix ex: <http://example.com/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Regulation1 a ex:Regulation ;
+    ex:appliesTo ex:Window ;
+    ex:maxUValue "2.2"^^xsd:float .
+

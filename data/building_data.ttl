@@ -1,0 +1,7 @@
+@prefix ex: <http://example.com/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Window_6 a ex:Window ;
+    ex:name "Sample Window"^^xsd:string ;
+    ex:uValue "1.8"^^xsd:float .
+
