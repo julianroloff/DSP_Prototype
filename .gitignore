@@ -1,3 +1,5 @@
 venv/
 __pycache__/
+apache-jena-fuseki-5.2.0/
+
 *.pyc
